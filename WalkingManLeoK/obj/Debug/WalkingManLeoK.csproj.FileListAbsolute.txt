@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\bin\Debug\WalkingManLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\bin\Debug\WalkingManLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\bin\Debug\WalkingManLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.frmWalkingManLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\WalkingManLeoK\WalkingManLeoK\obj\Debug\WalkingManLeoK.pdb
